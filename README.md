@@ -16,6 +16,8 @@ a few key libraries:
 
 1) Ensure you have Poetry installed with `poetry --version`. If not, follow the official
 [installation](https://python-poetry.org/docs/#installation) instructions.
+   
+2) Run `poetry install` to download all dependencies.
 
 2) Rename the `.env.template` file to `.env` and add your API token and user ID. You can set the prefix here as well.
 
